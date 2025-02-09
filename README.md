@@ -233,33 +233,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Developer Information
 - **Developer**: [@xyphoscyber](https://github.com/xyphoscyber)
-- **Email**: support@xyphoscyber.com
-- **Website**: [https://xyphoscyber.com](https://xyphoscyber.com)
-- **Twitter**: [@xyphoscyber](https://twitter.com/xyphoscyber)
+- **Website**: [https://xyphoscyber.com](https://xyphoscyber.ct.ws)
 
 ### Support Channels
 - GitHub Issues: [Report a bug](https://github.com/xyphoscyber/nettrackr/issues)
-- Discord: [Join our community](https://discord.gg/nettrackr)
-- Documentation: [docs.nettrackr.io](https://docs.nettrackr.io)
 
-## 🛡️ Security Policy
-
-Please report security vulnerabilities directly to security@xyphoscyber.com
-
-## 📊 Project Statistics
-- Latest Release: February 2025
-- Active Contributors: 5+
-- GitHub Stars: 1000+
-- Downloads: 50,000+
-
-## 🙏 Acknowledgments
-
-- Lead Developer: [@xyphoscyber](https://github.com/xyphoscyber)
-- Core Team:
-  - Network Analysis: @networkguru
-  - Security Implementation: @securitywizard
-  - UI/UX Design: @uxmaster
-- Special thanks to our open-source contributors
-
----
 Made with ❤️ by [@xyphoscyber](https://github.com/xyphoscyber) | XyphosCyber Security Solutions
